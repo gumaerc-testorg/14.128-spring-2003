@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4a106e0d-95b3-340c-d5ee-6cfb9985e2ad
 resourcetype: Document
 title: Principle_of_Optimality_updated.pdf
 uid: e247bd2e-4075-d66d-ce41-5cae7a2d5864

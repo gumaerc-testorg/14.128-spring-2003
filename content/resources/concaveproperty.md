@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4a106e0d-95b3-340c-d5ee-6cfb9985e2ad
 resourcetype: Document
 title: concaveproperty.pdf
 uid: 0a25c03f-070c-75b8-bf5a-4062823353c6
