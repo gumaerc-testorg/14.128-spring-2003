@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 4a106e0d-95b3-340c-d5ee-6cfb9985e2ad
 ---
@@ -56,5 +59,5 @@ Lamda 1 ([PDF]({{< baseurl >}}/resources/lamda1))
 
 Concave Property ([PDF]({{< baseurl >}}/resources/concaveproperty))
 
-Zipped MATLAB® Files ([ZIP]({{< baseurl >}}/resources/14_128_iap))  
+Zipped MATLAB{{< sup "®" >}} Files ([ZIP]({{< baseurl >}}/resources/14_128_iap))  
 (The zip file includes: growthDP.m, phase.m, rck.m, shooting.m, u.m, continuousBE.m, dV.m, f.m, growth.m)
