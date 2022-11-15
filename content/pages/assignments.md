@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -22,16 +23,16 @@ Solutions
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 1 ([PDF]({{< baseurl >}}/resources/problem_set_1_d__bd_b2003_1_1))
+Problem Set 1 ({{% resource_link 2db5ba45-d6ae-d604-39f3-b5fea13a29a8 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Solution 1 ([PDF]({{< baseurl >}}/resources/answerps1))
+Solution 1 ({{% resource_link dc0dbc01-4eb3-6c9f-eab7-b57658714e20 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps24))
+Problem Set 2 ({{% resource_link 3703e355-0250-641c-cd8c-4dd9287350f0 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -40,10 +41,10 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps24))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset31))
+Problem Set 3 ({{% resource_link 03e9828c-f9fe-3df1-770c-49f9b6e8e12b "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Solution 3 ([PDF]({{< baseurl >}}/resources/ps3sol))
+Solution 3 ({{% resource_link 994c14d3-561b-be62-c535-442bf979be58 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -53,11 +54,11 @@ Solution 3 ([PDF]({{< baseurl >}}/resources/ps3sol))
 Related Handouts
 ----------------
 
-Principle of Optimality ([PDF]({{< baseurl >}}/resources/principle_of_optimality_updated))
+Principle of Optimality ({{% resource_link e247bd2e-4075-d66d-ce41-5cae7a2d5864 "PDF" %}})
 
-Lamda 1 ([PDF]({{< baseurl >}}/resources/lamda1))
+Lamda 1 ({{% resource_link 5e6f7854-7ec7-2da5-5f3a-e292dd341c31 "PDF" %}})
 
-Concave Property ([PDF]({{< baseurl >}}/resources/concaveproperty))
+Concave Property ({{% resource_link 0a25c03f-070c-75b8-bf5a-4062823353c6 "PDF" %}})
 
-Zipped MATLAB{{< sup "®" >}} Files ([ZIP]({{< baseurl >}}/resources/14_128_iap))  
+Zipped MATLAB{{< sup "®" >}} Files ({{% resource_link 1cb147f8-8cca-1e09-cf21-295822fb630c "ZIP" %}})  
 (The zip file includes: growthDP.m, phase.m, rck.m, shooting.m, u.m, continuousBE.m, dV.m, f.m, growth.m)
