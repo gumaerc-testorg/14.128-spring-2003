@@ -1,12 +1,13 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 9680cf34-39b6-8d60-a7cd-5aee17ea0e03
 ---
 
-Syllabus ([PDF]({{< baseurl >}}/resources/syllabus14128))
+Syllabus ({{% resource_link a5cf6eef-fb8c-7cb2-8a52-a9f297cacea1 "PDF" %}})
 
 The unifying theme of this course is best captured by the title of our main reference book: _Recursive Methods in Economic Dynamics_. We start by covering deterministic and stochastic dynamic optimization using dynamic programming analysis. We then study the properties of the resulting dynamic systems. Finally, we will go over a recursive method for repeated games that has proven useful in contract theory and macroeconomics. We shall stress applications and examples of all these techniques throughout the course.
 
