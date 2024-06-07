@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to exact converses, useful
   variant, and SLP's theorem.
 file: /courses/14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003/e247bd2e4075d66dce415cae7a2d5864_Principle_of_Optimality_updated.pdf
+file_size: 483689
 file_type: application/pdf
 learning_resource_types:
 - Assignments
