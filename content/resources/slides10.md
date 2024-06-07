@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Lecture Slides 10: Recursive Methods'
 file: /courses/14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003/5847990469c00683750f0f332a7c2a42_slides10.pdf
+file_size: 147948
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
