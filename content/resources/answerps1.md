@@ -2,6 +2,7 @@
 content_type: resource
 description: 'Problem Set 1: Answers to the required problems'
 file: /courses/14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003/dc0dbc014eb36c9feab7b57658714e20_answerps1.pdf
+file_size: 252364
 file_type: application/pdf
 learning_resource_types:
 - Assignments
