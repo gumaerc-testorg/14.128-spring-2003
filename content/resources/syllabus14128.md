@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Syllabus: 14.128 Dynamic Optimization and Economic Applications (Recursive
   Methods)'
-file: /ol-ocw-studio-app/courses/14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003/a5cf6eeffb8c7cb28a52a9f297cacea1_syllabus14128.pdf
+file: /courses/14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003/a5cf6eeffb8c7cb28a52a9f297cacea1_syllabus14128.pdf
 file_size: 406487
 file_type: application/pdf
 learning_resource_types: []

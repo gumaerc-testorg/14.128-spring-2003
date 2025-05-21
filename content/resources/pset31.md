@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Problem Set #3'
-file: /ol-ocw-studio-app/courses/14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003/03e9828cf9fe3df1770c49f9b6e8e12b_pset31.pdf
+file: /courses/14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003/03e9828cf9fe3df1770c49f9b6e8e12b_pset31.pdf
 file_size: 362079
 file_type: application/pdf
 learning_resource_types:
