@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Concave Property Handout
-file: /ol-ocw-studio-app/courses/14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003/0a25c03f070c75b8bf5a4062823353c6_concaveproperty.pdf
+file: /courses/14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003/0a25c03f070c75b8bf5a4062823353c6_concaveproperty.pdf
 file_size: 63165
 file_type: application/pdf
 learning_resource_types:
