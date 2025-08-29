@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 1 problem statement related to vector spaces and
   bounded returns.
-file: /courses/14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003/2db5ba45d6aed60439f3b5fea13a29a8_problem_set_1_d__bd_b2003_1_1.pdf
+file: /ol-ocw-studio-app/courses/14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003/2db5ba45d6aed60439f3b5fea13a29a8_problem_set_1_d__bd_b2003_1_1.pdf
 file_size: 49763
 file_type: application/pdf
 learning_resource_types:
