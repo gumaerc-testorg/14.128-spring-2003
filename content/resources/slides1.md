@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Lecture Slides 4: Recursive Methods'
-file: /courses/14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003/1e4a9431e0f8e3082bd14dbfd320fc45_slides1.pdf
+file: /ol-ocw-studio-app/courses/14-128-dynamic-optimization-economic-applications-recursive-methods-spring-2003/1e4a9431e0f8e3082bd14dbfd320fc45_slides1.pdf
 file_size: 166450
 file_type: application/pdf
 learning_resource_types:
